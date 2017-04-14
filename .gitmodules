@@ -1,0 +1,9 @@
+[submodule "vendor/monoid"]
+	path = vendor/monoid
+	url = https://github.com/larsenwork/monoid.git
+[submodule "vendor/fantasque-sans"]
+	path = vendor/fantasque-sans
+	url = https://github.com/belluzj/fantasque-sans.git
+[submodule "vendor/powerline-fonts"]
+	path = vendor/powerline-fonts
+	url = https://github.com/powerline/fonts.git
